@@ -1,7 +1,7 @@
 Problem Statement
 People often follow random diets without understanding their daily calorie needs or BMI category.
-There is a need for a small and simple tool that can guide users with basic meal suggestions based on their daily activity and body parameters.
-The project aims to create a program that can calculate BMI, identify activity level, estimate approximate calorie needs, and recommend three meals accordingly.
+There is an urgent need for a small and simple tool that can guide the busy users with basic meal suggestions based on their daily activity and body parameters.
+The project aims to create a program that can calculate BMI, identify activity level based on the number of steps, estimate approximate calorie needs, and recommend three meals accordingly.
 
 Scope of the Project:
 The system is designed for:
