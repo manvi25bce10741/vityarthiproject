@@ -1,4 +1,4 @@
-Problem Statement
+Problem Statement:
 People often follow random diets without understanding their daily calorie needs or BMI category.
 There is an urgent need for a small and simple tool that can guide the busy users with basic meal suggestions based on their daily activity and body parameters.
 The project aims to create a program that can calculate BMI, identify activity level based on the number of steps, estimate approximate calorie needs, and recommend three meals accordingly.
@@ -13,8 +13,8 @@ Educational purposes (not medical guidance)
 
 Target Audience:
 The Healthy Food Recommendation System is designed for:
-Students who want to understand their BMI and food habits.
-Young adults who want simple diet suggestions based on activity levels.
+Students who want to understand their BMI and food habits and live a healthier life.
+Young adults who want simple diet suggestions based on activity levels with quick solutions.
 Beginners learning Python, as the program demonstrates functions and conditional logic.
 Users who track steps, such as students using smartwatches or mobile pedometers.
 Individuals who want quick food guidance without advanced nutrition knowledge.
